@@ -3,12 +3,12 @@ This repository contains my submission for the Data Science Intern assignment. I
  **Repository Contents**
 | **File Name**                | **Description**                                                                 |
 |-------------------------------|---------------------------------------------------------------------------------|
-| `Divyanshu_EDA.ipynb`         | Jupyter Notebook for performing EDA on the dataset.                            |
-| `Divyanshu_EDA.pdf`           | A concise PDF report detailing key business insights derived from EDA.          |
-| `Divyanshu_Lookalike.ipynb`   | Jupyter Notebook for developing a lookalike model and generating recommendations.|
-| `Divyanshu_lookalike.csv`     | CSV file containing top recommendations and similarity scores.                  |
-| `Divyanshu_Clustering.ipynb`  | Jupyter Notebook for customer segmentation using clustering.                    |
-| `Divyanshu_Clustering.pdf`    | A PDF report summarizing clustering results and insights.                       |
+| `Ankita_EDA.ipynb`         | Jupyter Notebook for performing EDA on the dataset.                            |
+| `Ankita_EDA.pdf`           | A concise PDF report detailing key business insights derived from EDA.          |
+| `Ankita_Lookalike.ipynb`   | Jupyter Notebook for developing a lookalike model and generating recommendations.|
+| `Ankita_lookalike.csv`     | CSV file containing top recommendations and similarity scores.                  |
+| `Ankita_Clustering.ipynb`  | Jupyter Notebook for customer segmentation using clustering.                    |
+| `Ankita_Clustering.pdf`    | A PDF report summarizing clustering results and insights.                       |
 
 ---
 
