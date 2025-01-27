@@ -22,11 +22,11 @@ This repository contains my submission for the Data Science Intern assignment. I
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Divyanshu_DataScience_Assignment.git
+   git clone https://github.com/your-username/Ankita_DataScience_Assignment.git
    ```
 2. Navigate to the repository folder:
    ```bash
-   cd Divyanshu_DataScience_Assignment
+   cd Ankita_DataScience_Assignment
    ```
 3. Open the Jupyter notebooks to explore the code:
    ```bash
@@ -34,8 +34,4 @@ This repository contains my submission for the Data Science Intern assignment. I
    ```
 4. Review PDF reports for insights and clustering results.
 
-
-
-## **License**
-This project is licensed under the [MIT License](LICENSE).
 
